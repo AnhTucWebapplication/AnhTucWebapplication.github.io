@@ -13,5 +13,6 @@
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "nodemon": "^2.0.15"
+    "GitRepo": "git+https://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:x-oauth-basic@github.com/AnhTucWebapplication/AnhTucWebapplication.github.io"
   }
 }
